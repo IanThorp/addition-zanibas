@@ -17,8 +17,8 @@ tap.test( 'should not include Ian', function( t ){
   t.end();
 })
 
-console.log( "Kevin shouldn't talk any shit about cornhole." )
+console.log( "Ian shouldn't talk any shit about cornhole." )
 console.log( "I am trying to say he is not good at cornhole." )
-console.log( "I am talking shit... to Kevin." )
+console.log( "I am talking shit... about myself." )
 
 console.log( "Victor and Sam also suck.")
