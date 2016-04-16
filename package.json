@@ -23,5 +23,8 @@
   "homepage": "https://github.com/Zanibas/addition-zanibas#readme",
   "dependencies": {
     "spectacle": "^1.0.5"
+  },
+  "devDependencies": {
+    "tap": "^5.7.1"
   }
 }
