@@ -1,0 +1,5 @@
+- Fork the repo
+- Update the repo
+- Pull Request the repo
+- Talk shit about Ian
+- Profit!

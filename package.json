@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/Zanibas/addition-zanibas/issues"
   },
-  "homepage": "https://github.com/Zanibas/addition-zanibas#readme"
+  "homepage": "https://github.com/Zanibas/addition-zanibas#readme",
+  "dependencies": {
+    "spectacle": "^1.0.5"
+  }
 }
