@@ -1,0 +1,24 @@
+{
+  "name": "addition-zanibas",
+  "version": "0.0.1",
+  "description": "foo bar",
+  "main": "addition.js",
+  "scripts": {
+    "test": "tap *.tap.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zanibas/addition-zanibas.git"
+  },
+  "keywords": [
+    "addition",
+    "kevin",
+    "serrano"
+  ],
+  "author": "Kevin Serrano (@zanibas)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Zanibas/addition-zanibas/issues"
+  },
+  "homepage": "https://github.com/Zanibas/addition-zanibas#readme"
+}
